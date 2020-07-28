@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.space-one
+{
+  background-image: url(img/bg.jpg);
+  height: 530px;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.intro
+{
+  background-color: #211E49;
+}
+
+.story
+{
+  background-image: url(img/sp.jpg);
+  height: 530px;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.space-two
+{
+  background-image: url(img/bg (2).jpg);
+  height: 530px;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+
+}
+
+.staff
+{
+  background-image: url(img/bg (1).jpg);
+  height: 530px;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+
+}
+
+footer
+{
+  background-image: url(img/03 (3).jpg);
+}
